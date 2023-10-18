@@ -10,7 +10,7 @@ export default function Login({navigation}) {
     <View style={styles.container}>
       <Image style={styles.image} source={require('../assets/home.jpg')}/>
       <Text>Sistema</Text>
-      <Text style={styles.title}>Comanda</Text>
+      <Text style={styles.title}>Vende Manto</Text>
       <Input placeholder='email' />
       <Input placeholder='senha' secureTextEntry/>
 

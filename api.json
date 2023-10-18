@@ -1,0 +1,28 @@
+{
+    "produtos": [
+        {
+            "imagePath": "https://shop.brentfordfc.com/siteimg/prodhires/4136-521.jpg",
+            "nome": "Brentford 23/25",
+            "preco": 389.99,
+            "id": 1
+        },
+        {
+            "imagePath": "https://du31yfl7b40lu.cloudfront.net/Custom/Content/Products/60/84/6084_camisa-masc-umbro-sport-of-3-2023-classic-s-n-pr-16285-1175782_z1_638289227132662742.jpg",
+            "nome": "Sport 23/24 Third",
+            "preco": 349.99,
+            "id": 2
+        },
+        {
+            "imagePath": "https://www.voetbal-truitjes.com/cdn/shop/products/image_72ff1570-3d2a-4d77-a338-a43facefabe1.jpg",
+            "nome": "AIK Stockholm Edition",
+            "preco": 1199.99,
+            "id": 3
+        },
+        {
+            "imagePath": "https://img.irroba.com.br/fit-in/600x600/americam/catalog/produtos-2023/marco/jogo-3/camisa-jogo-3-america-masc-0.jpg",
+            "nome": "América mineiro Decacampeão",
+            "preco": 249.99,
+            "id": 4
+        }
+    ]
+}
