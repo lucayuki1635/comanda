@@ -24,5 +24,19 @@
             "preco": 249.99,
             "id": 4
         }
+    ],
+    "usuarios":[
+        {
+            "id":1,
+            "nome": "Luca Yuki",
+            "email": "lucayuki@fiap.com",
+            "senha": "1234"
+        },
+        {
+            "id":2,
+            "nome": "Pq choras duuh",
+            "email": "eduardo@fiap.com",
+            "senha": "1234"
+        }
     ]
 }
